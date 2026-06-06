@@ -6,21 +6,6 @@ An end-to-end interactive Supply Chain and Logistics Analytics Dashboard built i
 
 ---
 
-## 🖼️ Dashboard Preview
-
-> *Add screenshots of your dashboard pages here*
-> To add: Go to Power BI → Take screenshot of each page → Upload to this repo → Replace the lines below
-
-| Executive Overview | Supplier Analytics |
-|---|---|
-| ![Executive Overview](screenshots/executive_overview.png) | ![Supplier Analytics](screenshots/supplier_analytics.png) |
-
-| Inventory Analytics | Shipment Analytics |
-|---|---|
-| ![Inventory](screenshots/inventory_analytics.png) | ![Shipment](screenshots/shipment_analytics.png) |
-
----
-
 ## 📌 Project Overview
 
 This project was developed to provide Samsung's business stakeholders with a centralized, real-time view of their entire supply chain operations — from procurement and inventory to logistics and customer revenue — through a multi-page interactive Power BI dashboard.
